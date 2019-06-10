@@ -8,7 +8,7 @@ The project started as an excuse to use a laser cutter and because I thought: A 
 
 Note: This is the first time I used a CAD-tool and the first time I used a laser cutter. Hence I made some rookie mistakes, but all in all the project looks okay. It's not 100% finished yet.
 
-The code is already online, but in an early stage. You can get it overe there: https://gitlab.luxeria.ch/xermic/ledisplay
+The code is online, but in an early stage. You can get it over there: https://gitlab.luxeria.ch/xermic/ledisplay
 
 ## Concept
 TODO ;-)
